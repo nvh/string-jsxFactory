@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "baseUrl": "src",
+    "target": "es2019",
+    "moduleResolution": "node",
+    "jsx": "react",
+    "outDir": "build"
+  }
+}
